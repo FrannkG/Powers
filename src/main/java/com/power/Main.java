@@ -15,7 +15,7 @@ import javax.swing.UIManager;
  * Phase 2: launches the UI skeleton wired to a stubbed GameEngine.
  * All game logic currently returns hard-coded / mock values.
  */
-public class Powers {
+public class Main {
 
     public static void main(String[] args) {
         // Swing must be built on the Event Dispatch Thread.
